@@ -1,0 +1,167 @@
+cmd
+映像名称                       PID 会话名              会话#       内存使用 
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          4 K
+System                           4 Services                   0     83,704 K
+smss.exe                       296 Services                   0        436 K
+csrss.exe                      528 Services                   0      3,528 K
+wininit.exe                    600 Services                   0      2,492 K
+services.exe                   672 Services                   0      4,640 K
+lsass.exe                      688 Services                   0      9,172 K
+svchost.exe                    832 Services                   0     11,888 K
+svchost.exe                    896 Services                   0      8,020 K
+svchost.exe                    984 Services                   0     22,980 K
+svchost.exe                   1000 Services                   0     31,124 K
+ibmpmsvc.exe                  1052 Services                   0      1,624 K
+svchost.exe                   1064 Services                   0     49,060 K
+LPlatSvc.exe                  1072 Services                   0      3,144 K
+svchost.exe                   1216 Services                   0     10,168 K
+svchost.exe                   1228 Services                   0     22,568 K
+dasHost.exe                   1436 Services                   0     14,648 K
+igfxCUIService.exe            1460 Services                   0      3,944 K
+svchost.exe                   1628 Services                   0     13,992 K
+spoolsv.exe                   1752 Services                   0      6,988 K
+svchost.exe                   1788 Services                   0     27,112 K
+svchost.exe                   1912 Services                   0     15,416 K
+BtwRSupportService.exe        1928 Services                   0      1,536 K
+IntelCpHeciSvc.exe            1936 Services                   0      2,116 K
+svchost.exe                   1980 Services                   0      6,440 K
+svchost.exe                   1824 Services                   0      2,516 K
+svchost.exe                   2100 Services                   0     10,416 K
+SynTPEnhService.exe           2112 Services                   0      2,552 K
+WmiPrvSE.exe                  4296 Services                   0     13,152 K
+PresentationFontCache.exe     1016 Services                   0      3,128 K
+SearchIndexer.exe             6052 Services                   0     47,548 K
+GoogleCrashHandler.exe        6924 Services                   0        860 K
+GoogleCrashHandler64.exe      7040 Services                   0        284 K
+MsMpEng.exe                  11496 Services                   0    254,104 K
+NisSrv.exe                    8460 Services                   0     12,332 K
+WUDFHost.exe                  1616 Services                   0      1,712 K
+csrss.exe                     7464 Console                    5     67,908 K
+winlogon.exe                  7256 Console                    5      7,580 K
+dwm.exe                        208 Console                    5     80,532 K
+LPlatSvc.exe                  8452 Console                    5      5,812 K
+SynTPEnh.exe                  8480 Console                    5     18,764 K
+taskhostw.exe                 8856 Console                    5     17,684 K
+sihost.exe                    5556 Console                    5     26,560 K
+ChsIME.exe                   11744 Console                    5      6,892 K
+igfxEM.exe                    8448 Console                    5     14,064 K
+igfxHK.exe                    6544 Console                    5     10,412 K
+igfxTray.exe                  5404 Console                    5     15,172 K
+SynTPLpr.exe                  9600 Console                    5      5,808 K
+SynLenovoHelper.exe           1276 Console                    5      7,272 K
+SynTPHelper.exe                712 Console                    5      3,512 K
+explorer.exe                  6020 Console                    5    212,832 K
+ShellExperienceHost.exe      10804 Console                    5     91,488 K
+SearchUI.exe                  4768 Console                    5     86,280 K
+wpscloudsvr.exe               4156 Console                    5     14,872 K
+RuntimeBroker.exe             8708 Console                    5     35,452 K
+SogouImeBroker.exe            7028 Console                    5     19,136 K
+InstallAgent.exe              6964 Console                    5     12,452 K
+wpscenter.exe                10672 Console                    5     56,212 K
+RAVCpl64.exe                  2592 Console                    5     12,396 K
+RAVBg64.exe                   8100 Console                    5     12,352 K
+RAVBg64.exe                   9204 Console                    5     12,372 K
+WeChat.exe                    7188 Console                    5    149,956 K
+DingTalk.exe                  7408 Console                    5    110,596 K
+YunDetectService.exe          3288 Console                    5     10,060 K
+YoudaoNote.exe                4560 Console                    5    102,256 K
+jusched.exe                  10400 Console                    5      6,144 K
+YNoteCefRender.exe            8108 Console                    5     32,328 K
+YNoteCefRender.exe            6756 Console                    5    100,096 K
+WeChatWeb.exe                 4552 Console                    5     36,996 K
+fontdrvhost.exe               2108 Console                    5      2,708 K
+DocToPDF.exe                  9392 Console                    5     22,196 K
+DingTalkHelper.exe            9396 Console                    5    119,108 K
+SogouCloud.exe                6264 Console                    5     81,300 K
+ChsIME.exe                   10600 Console                    5     13,032 K
+studio64.exe                  8008 Console                    5  1,160,852 K
+svchost.exe                   8540 Console                    5     11,244 K
+fsnotifier64.exe              2580 Console                    5      3,920 K
+conhost.exe                   4280 Console                    5      7,332 K
+firefox.exe                   6512 Console                    5    403,644 K
+firefox.exe                   9412 Console                    5     47,120 K
+firefox.exe                  11756 Console                    5    125,844 K
+ApplicationFrameHost.exe      5772 Console                    5     40,832 K
+openvpn-gui-1.0.3.exe         3068 Console                    5     10,336 K
+openvpn.exe                  10404 Console                    5      7,572 K
+conhost.exe                   6424 Console                    5      7,328 K
+firefox.exe                  11432 Console                    5    391,620 K
+firefox.exe                   9924 Console                    5    146,224 K
+pycharm64.exe                12128 Console                    5    794,184 K
+fsnotifier64.exe              3256 Console                    5      3,836 K
+conhost.exe                  11568 Console                    5      7,180 K
+QQProtect.exe                 3124 Services                   0     19,516 K
+Calculator.exe                 996 Console                    5     30,944 K
+adb.exe                      11604 Console                    5      7,780 K
+MpCmdRun.exe                 11912 Services                   0     10,336 K
+audiodg.exe                   5956 Services                   0     21,428 K
+FMAPP.exe                     2908 Console                    5      7,820 K
+WeChatWeb.exe                11596 Console                    5     50,592 K
+SearchProtocolHost.exe        8688 Services                   0      9,000 K
+XMP.exe                       6912 Console                    5    154,816 K
+QQMusic.exe                   9832 Console                    5    285,852 K
+QQMusicExternal.exe           5704 Console                    5     13,196 K
+qbclient.exe                  5152 Console                    5    247,272 K
+firefox.exe                   8904 Console                    5    195,052 K
+firefox.exe                   2584 Console                    5     47,992 K
+dllhost.exe                   3744 Console                    5     13,032 K
+WmiPrvSE.exe                 10316 Services                   0     26,588 K
+SearchFilterHost.exe          2296 Services                   0      8,068 K
+explorer.exe                  3504 Console                    5     79,216 K
+cmd.exe                       6516 Console                    5      2,704 K
+conhost.exe                    760 Console                    5     43,144 K
+SGTool.exe                    6180 Console                    5     17,128 K
+python.exe                    6856 Console                    5      8,716 K
+cmd.exe                      11404 Console                    5      2,720 K
+tasklist.exe                  6308 Console                    5      7,364 K
+cmd
+Windows IP 配置
+
+
+以太网适配器 以太网:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+无线局域网适配器 本地连接* 1:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+无线局域网适配器 WLAN:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   本地链接 IPv6 地址. . . . . . . . : fe80::c5d4:b8af:5cea:db82%5
+   IPv4 地址 . . . . . . . . . . . . : 192.168.8.119
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . : fe80::c453:95ab:3a7e:44ec%5
+                                       192.168.8.1
+
+以太网适配器 以太网 2:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   本地链接 IPv6 地址. . . . . . . . : fe80::f860:93d0:8085:6ee3%10
+   IPv4 地址 . . . . . . . . . . . . : 10.8.0.158
+   子网掩码  . . . . . . . . . . . . : 255.255.255.252
+   默认网关. . . . . . . . . . . . . : 
+
+以太网适配器 蓝牙网络连接:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+隧道适配器 isatap.{D6215BC2-7A70-466B-AB87-83E723C54464}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+隧道适配器 Teredo Tunneling Pseudo-Interface:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+隧道适配器 isatap.{5FACCD00-6BD0-4228-ABAD-DCE1446493BE}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 

@@ -52,3 +52,4 @@ year = eval(input("please input year"))
 
 allAmount = amount * ((1 + percent) ** year)
 print(allAmount)
+
